@@ -1,0 +1,281 @@
+{
+  "Permit": [
+    {
+      "TestName" : "android",
+      "ProcName": "Bf0N9NmMvDWyfZWsJiEkMw==",
+      "ResourcePermitted": "TRUE",
+      "HintList": [
+        "0"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.game.gos",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArs8yTo4a4MBVJtPfF93dezE=",
+      "ResourcePermitted": "TRUE"
+    },
+    {
+      "TestName" : "com.sec.android.app.launcher",
+      "ProcName": "2d7kXzDmEA16RFFmIqnqM2deXaIxZ7JULD+gsfneGHY=",
+      "HintList": [
+        "12", "18", "7000"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.bixby.agent",
+      "HintList": [
+          "1300"
+        ]
+    },
+    {
+      "TestName" : "com.sec.android.sdhms",
+      "ProcName": "2d7kXzDmEA16RFFmIqnqM3ctPw==",
+      "ResourcePermitted": "TRUE",
+      "HintList": [
+        "0"
+      ]
+    },
+    {
+      "TestName" : "PERF_SDK",
+      "ProcName": "pt9AhfB3kKckmy9/qugEvQ==",
+      "ResourcePermitted": "TRUE"
+    },
+    {
+      "TestName" : "com.samsung.android.smartmirroring",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArlIzbheROiQQzzZGOHhtwQcojZkVuBLxe7ME12XWedvn",
+      "HintList": [
+        "1200", "1201"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.app.notes",
+      "ProcName": "39tNjaYk9jY4M6xHr0SAru1lTf8QoU1mFWAzCgq69V4=",
+      "HintList": [
+        "1500"
+      ]
+    },
+    {
+      "TestName" : "com.sec.android.app.camera",
+      "ProcName": "2d7kXzDmEA16RFFmIqnqM+CN7RqiNIVX7kgN2MW5yvo=",
+      "HintList": [
+        "1050", "1051"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.server.wifi",
+      "ProcName": "39tNjaYk9jY4M6xHr0SAri32kRUDkdbiOuA0fFhuKSY=",
+      "HintList": [
+        "4010", "4011"
+      ]
+    },
+    {
+      "TestName" : "com.sec.android.easyonehand",
+      "ProcName": "2d7kXzDmEA16RFFmIqnqM9vkHjRLODJzTlGuCrvgRJw=",
+      "HintList": [
+        "1600"
+      ]
+    },
+    {
+      "TestName" : "com.sec.sve",
+      "ProcName": "DpRpiBatPCR/Nwc/VfVhBQ==",
+      "HintList": [
+        "23000"
+      ]
+    },
+    {
+      "TestName" : "com.android.nfc",
+      "ProcName": "somB/2u/RoXaCYvY2xj3Aw==",
+      "HintList": [
+        "3700"
+      ]
+    },
+    {
+      "TestName" : "audioserver",
+      "ProcName": "XpgrHdTpsUk2ZoyYraQgPw==",
+	  "ResourcePermitted": "TRUE"
+	},
+    {
+      "TestName" : "com.samsung.android.spay",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArqAgumk3r0s2cJjsh9JElZE=",
+      "HintList": [
+        "4000", "4001"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.spaymini",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArhCTZeA2mCg=",
+      "HintList": [
+        "4000", "4001"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.rajaampat",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArjSwxuIZVBuChRPSiK6z6Ko=",
+      "HintList": [
+        "4000", "4001"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.brdigitalaccount.swipe",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArt0QLcQw+AdYF2eR467VJHDm4pEa0hiA4OXavRiB6Q==",
+      "HintList": [
+        "4000", "4001"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.brdigitalaccount.swipelite",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArt0QLcQw+AdYF2eR467VJHDIKBISB3ubrUfmnqjiBIRx",
+      "HintList": [
+        "4000", "4001"
+      ]
+    },
+    {
+      "TestName" : "biometrics_service",
+      "ProcName": "TzBTGToHFzKpXZ2cMNbhrLm7z0E8hiGX+QZOXDFB4As=",
+      "HintList": [
+        "3501", "3511", "3512"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.camerasdkservice",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArhiD/5SxI9UhPnMuuy4TMdktVXNllzTHoqZXGbBtaOMD",
+      "HintList": [
+        "1060"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.cameraxservice",
+      "ProcName": "39tNjaYk9jY4M6xHr0SAruvszDmfY6yab4hVS/9ZZJtW+O09idbAyYc4gUwM37x5",
+      "HintList": [
+        "1061"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.app.galaxyfinder",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArl7QCqmgIoikv+VxO9RNuH+8KbJJQ0PlC5Oj6Z64qLFO",
+      "HintList": [
+        "6000", "6001", "6002"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.app.cocktailbarservice",
+      "ProcName": "39tNjaYk9jY4M6xHr0SAroQCcrSLKdEGPAjAybuz0ZgE8M+vqDU/s1rPBl+iez83",
+      "HintList": [
+        "5000"
+      ]
+    },
+    {
+      "TestName" : "android:drmService",
+      "ProcName": "Y6fTGEUIMEnYssjULTY6RDnCsUO4ODporxtEGJjKwLk=",
+      "HintList": [
+        "1400"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.sept.SSRM",
+      "ProcName": "2X3C9+CeQvDt8bCjw/wwj/GhvGJdJYRTQ84jb4/TIN8=",
+      "ResourcePermitted": "TRUE",
+      "HintList": [
+        "0"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.gpuwatchapp",
+      "ProcName": "RiQ7OkMxBKMBz99N2GSwcVOLLxwSfy7RATh3pVS6URc=",
+      "ResourcePermitted": "TRUE"
+    },
+    {
+      "TestName" : "com.android.systemui",
+      "ProcName": "VDpV/kwlahfxtf/iLrqZ+QjmIh4WnYZWFjeYCMy1tac=",
+      "HintList": [
+        "3100"
+      ]
+    },
+    {
+      "TestName" : "com.sec.android.app.desktoplauncher",
+      "ProcName": "2d7kXzDmEA16RFFmIqnqMzFdv+e4MTv0FhfwNrGNiTwkKZ5CrQdtJrpvuprE0rQ=",
+      "HintList": [
+        "18"
+      ]
+    },
+    {
+      "TestName" : "HEIC_CAPTURE",
+      "ProcName": "uYxyVJ0C",
+      "HintList": [
+        "2100"
+      ]
+    },
+    {
+      "ProcName": "2d7kXzDmEA16RFFmIqnqMzMiZOrK3JNAEOMXkeIq/To=",
+      "HintList": [
+        "0"
+      ],
+      "ResourcePermitted": "TRUE"
+    },
+    {
+      "TestName" : "com.samsung.android.scs",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArj+G6CG+xt+737UJKspdp0M=",
+      "ResourcePermitted": "TRUE"
+    },
+    {
+      "TestName" : "vendor.samsung.hardware.thermal",
+      "ProcName": "xAGTr85/b5DEh9uCOcS0FXqWkLsCNOVrIHNS5LLDd84=",
+      "ResourcePermitted": "TRUE"
+    },
+    {
+      "TestName" : "com.samsung.android.service.aircommand",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArgT7cQlDR4JU7sVlLvhwQoLpU1b476vQ9rvfzoKG4Ceh",
+      "HintList": [
+        "5192"
+      ]
+    },
+    {
+      "TestName" : "vendor.samsung.hardware.camera.provider",
+      "ProcName": "xAGTr85/b5DEh9uCOcS0FW/miR+icGxEUfR2jtTBeIwu2/0Likw2d0So8PUgSbqD",
+      "HintList": [
+        "1070"
+      ]
+    },
+    {
+      "TestName" : "com.sec.android.app.vepreload",
+      "ProcName": "2d7kXzDmEA16RFFmIqnqM5AvCFnrm5j2/dA6rt4UcYM=",
+      "HintList": [
+        "1900"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.app.newtrim",
+      "ProcName": "BIbZGsWmMzJFDpkYetL/WQkvBQyaYqxfGw3z865WI+w=",
+      "HintList": [
+        "1900"
+      ]
+    },
+    {
+      "TestName" : "surfaceflinger",
+      "ProcName": "63rg9Ti/cmOXEOkwfKzilw==",
+      "HintList": [
+        "7100"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.honeyboard",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArvU9So5kJXwLN4l6H6nQlg==",
+      "HintList": [
+        "2340"
+      ]
+    },
+    {
+      "TestName" : "com.samsung.android.app.ar.phoneservice",
+      "ProcName": "39tNjaYk9jY4M6xHr0SArvhn+8PUrihtKLiSZUx0vPtC0itzbSTqoGXzpGI2Gut8",
+      "HintList": [
+        "8000"
+      ]
+    },
+    {
+      "TestName" : "VIDEO_SUPER_NIGHT",
+      "ProcName": "bEU8wIWmA1uFpLvDY/1Pbb/EaV/FLvWXpCILODM0uF4=",
+      "HintList": [
+        "4500"
+      ]
+    }
+  ]
+}
